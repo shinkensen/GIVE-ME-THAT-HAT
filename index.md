@@ -1,4 +1,6 @@
 ---
+title: Home
+
 ---
 
-# tonic-starter
+# theme-1
